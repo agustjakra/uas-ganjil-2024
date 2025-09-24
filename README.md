@@ -1,9 +1,13 @@
-Bank Soal Ulangan Akhir  Semester Ganjil 2024/2025
-Repositori ini adalah sumber terbuka (open source) yang berisi koleksi soal-soal ujian dan materi pembelajaran untuk semester ganjil. Tujuannya adalah untuk membantu para pelajar mempersiapkan diri menghadapi ujian dengan lebih baik.
+# Bank Soal Ulangan Akhir Semester Ganjil 2024/2025
 
-Konten yang tersedia:
+Repositori ini adalah sumber terbuka (open source) yang berisi koleksi soal-soal ujian dan materi pembelajaran untuk semester ganjil.
+Tujuannya adalah untuk membantu para pelajar mempersiapkan diri menghadapi ujian dengan lebih baik.
 
-Soal-soal latihan dari berbagai mata pelajaran.
-Kunci jawaban.
-Materi ringkasan.
-Cara Menggunakan: Anda bisa mengunduh atau melakukan clone repositori ini untuk mendapatkan semua file. Kami sangat menyambut kontribusi dari teman-teman untuk menambah koleksi soal!
+**Konten yang tersedia:**
+- Soal-soal latihan dari berbagai mata pelajaran.
+- Kunci jawaban.
+- Materi ringkasan.
+
+**Cara Menggunakan:**
+Anda bisa mengunduh atau melakukan *clone* repositori ini untuk mendapatkan semua file.
+Kami sangat menyambut kontribusi dari teman-teman untuk menambah koleksi soal!
